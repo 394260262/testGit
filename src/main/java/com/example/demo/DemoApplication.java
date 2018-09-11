@@ -15,6 +15,6 @@ public class DemoApplication {
 
     @GetMapping("/hi")
     public String hi(String name){
-        return "qqqqaaaaaaaqhelloaaabbccb----"+name;
+        return "qqqqaaa我看还qhelloaaabbccb----"+name;
     }
 }
